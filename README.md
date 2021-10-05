@@ -1,4 +1,4 @@
-# AfroDev (3ª edição)
+# AfroDev (3ª edição) - Share RH
 
-Exercícios da trilha de formação na linguagem Python voltada para Data Analytics patrocinada pela empresa Suzano!
+Exercícios realizados durante a trilha de formação na linguagem Python voltada para Data Analytics, patrocinada pela empresa Suzano!
 
